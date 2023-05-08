@@ -2,3 +2,17 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.title{
+    background-color: rgb(25, 54, 87);
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.container{
+    margin: 0 10% ;
+  }
+  .card{
+    margin-top: 10px;
+    text-align: center;
+  }
+ 
